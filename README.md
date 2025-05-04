@@ -4,7 +4,7 @@ This script performs a simple sales analysis using Python, SQLite, and basic dat
 
   What It Does:
 
-~ Creates a SQLite database sales_data.db with a simple sales table (if not already present)
+~ Creates a SQLite database with a simple sales table (if not already present)
 ~ Inserts sample sales data (only on first run)
 ~ Executes an SQL query to get:
 ~ Total quantity sold
